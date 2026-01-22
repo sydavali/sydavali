@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sydavali! 👋
+**B.E. Student | Artificial Intelligence & Machine Learning | Aspiring Data Engineer**
 
-<!--
-**sydavali/sydavali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year student at Methodist College of Engineering and Technology, focused on building scalable mobile applications and data-driven solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+* **Languages:** Dart (Flutter), Python, Java.
+* **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions).
+* **AI/ML:** Data preprocessing, predictive modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+### [On Time Fix](https://github.com/sydavali/On-Time-Fix)
+[cite_start]A cross-platform service marketplace using **Atomic Transactions** and **RBAC** to professionalize local technician services[cite: 100, 103].
+
+### [DonorSync](https://github.com/sydavali/DonorSync)
+A blood donation platform designed to reduce emergency response latency.
+
+## 📈 Current Focus
+* 🗓️ **100 Days of Code:** Transitioning into Data Engineering.
+* 📱 Developing a Ticket Resale platform for movie and bus tickets.
+
+## 📧 Get in Touch
+* **Email:** thenameisvali21@gmail.com
+* **Location:** Hyderabad, India
