@@ -4,7 +4,7 @@
 I am a 3rd-year student at Methodist College of Engineering and Technology, focused on building scalable mobile applications and data-driven solutions.
 
 ## 🛠️ Tech Stack
-* **Languages:** Dart (Flutter), Python, Java.
+* **Languages:** Dart (Flutter), Python, SQL.
 * **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions).
 * **AI/ML:** Data preprocessing, predictive modeling.
 
