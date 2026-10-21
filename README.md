@@ -25,7 +25,6 @@ A machine learning project focused on demand prediction and inventory optimizati
 
 ## Featured Projects
 
-ndas, Scikit-learn, XGBoost, Streamlit
 
 ### ON TIME FIX — Technician Service Platform
 
