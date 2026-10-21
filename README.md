@@ -11,11 +11,15 @@ My interests include machine learning, data analytics, predictive modeling, and 
 **Programming:** Python, SQL, C, JavaScript
 
 **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, Feature Engineering, Model Evaluation
+
 **Data Visualization:** Power BI, Tableau, Streamlit, Plotly
+
 **Application Development:** Flutter, Dart, HTML, CSS, Node.js
+
 **Tools & Platforms:** Git, GitHSmart Demand Forecasting and Inventory Optimization System
 
 A machine learning project focused on demand prediction and inventory optimization using historical data, feature engineering, model training, and evaluation.
+
 
 **Technologies:** Python, Paub, Firebase, VS Code
 
@@ -29,11 +33,17 @@ A cross-platform application connecting customers with local technicians, featur
 
 **Technologies:** Flutter, Dart, Firebase, Cloud Firestore
 
-### Employee Salary Prediction
+### Smart Demand Forecasting and Inventory Optimization System
+An end-to-end machine learning and decision-support application designed to forecast product demand and support inventory planning. The system combines historical sales data, feature engineering, model training and evaluation, and an interactive Streamlit dashboard to generate demand predictions and inventory insights.
 
-A machine learning application that predicts employee salaries using structured data and a trained Random Forest model, with an interactive Streamlit interface.
+**Key Features:** Demand forecasting, inventory intelligence dashboard, reorder quantity recommendations, stock risk assessment, and feature importance analysis.
 
-**Technologies:** Python, Pandas, Scikit-learn, Streamlit
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, Streamlit, Plotly
+
+**Focus Areas:** Machine Learning, Time-Aware Model Evaluation, Predictive Analytics, Inventory Optimization, and Data Visualization.
+
+[View Project Repository](https://github.com/sydavali/Smart-Demand-Forecasting-and-Inventory-Optimization-System)
+
 
 ### EduVision_DV — Higher Education Performance Dashboard
 
