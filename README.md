@@ -8,20 +8,16 @@ My interests include machine learning, data analytics, predictive modeling, and 
 
 ## Technical Skills
 
-**Programming:** Python, SQL, C, JavaScript
+**Programming:** Python, SQL
 
 **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, Feature Engineering, Model Evaluation
 
 **Data Visualization:** Power BI, Tableau, Streamlit, Plotly
 
-**Application Development:** Flutter, Dart, HTML, CSS, Node.js
+**Application Development:** Flutter, Dart, HTML, CSS
 
-**Tools & Platforms:** Git, GitHSmart Demand Forecasting and Inventory Optimization System
+**Tools & Platforms:** Git, GitHub, Firebase, VS Code
 
-A machine learning project focused on demand prediction and inventory optimization using historical data, feature engineering, model training, and evaluation.
-
-
-**Technologies:** Python, Paub, Firebase, VS Code
 
 ## Featured Projects
 
